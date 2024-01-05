@@ -1,0 +1,5 @@
+
+mv filename directory  -for moving a file
+mv oldfilename newfilename  -to rename a file
+cp filename directory  -for copying a file
+

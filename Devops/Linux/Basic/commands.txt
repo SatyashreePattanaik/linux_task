@@ -1,0 +1,24 @@
+
+mkdir -to create dir
+cd -switch dir
+cd .. -switch back to home dir
+touch -to create files
+pwd -path of present working dir
+ls -list of files & dirs
+rmdir -to delete empty dir
+rm -to delete files
+cat -see content in files
+echo -to print
+man -mannual of commands
+whoami -user of file
+clear -clear screen
+history -see history of commands
+rm -r dirname
+ls -l  (with permissions)
+ls -a  (see hidden files & dirs)
+mkdir dir1 dir2---dirn
+mkdir -p dir/subdir/subdir
+touch f1 f2 f3
+touch fname{1..n}.extension
+vi filename/nano filename  (to edit file)
+

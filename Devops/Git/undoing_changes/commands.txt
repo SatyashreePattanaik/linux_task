@@ -1,0 +1,12 @@
+
+git rm --cached filename
+rm filename
+git config --edit
+git remote rm origin
+git checkout filename
+git checkout .
+git commit --ammend
+git reset fname
+git reset --soft/--hard
+git diff b1 b2
+
